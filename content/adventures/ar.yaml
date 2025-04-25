@@ -1072,6 +1072,22 @@ adventures:
                     ```
 
                     املأ الكود الصحيح في الفراغات لترى {if} إنه تعادل.
+    rock_2:
+        name: حجر، ورقة، مقص
+        default_save_name: حجر ورقة مقص
+        description: اصنع لعبة حجر، ورقة، مقص الخاصة بك
+        levels:
+            2:
+                story_text: |
+                    Maintenant que tu as appris comment utiliser la commande `{ask}`, tu peux rendre ton code de pierre, papier, ciseaux interactif !
+
+                    ### Exercice
+                    Rend le code de pierre, papier, ciseaux interactif en ajoutant la commande `{ask}`et une question à ton code de pierre, papier, ciseaux.
+                example_code: |
+                    ```
+                    choix {is} _
+                    {print} Je choisi choix
+                    ```
     secret:
         name: العميل السري
         default_save_name: العميل السري

@@ -11,7 +11,6 @@ on:
       - main
       - dependabot/**
 
-
 jobs:
   # This identifier gets used in .mergify.yml
   cypress:

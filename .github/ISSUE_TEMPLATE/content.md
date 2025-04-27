@@ -1,6 +1,6 @@
 ---
 name: Content issue
-about: Tell us about an issue with content to make Hedy better!
+about: Tell us about an issue with content to make Jamjoum better!
 title: "📜"
 labels: 'content'
 assignees: ''

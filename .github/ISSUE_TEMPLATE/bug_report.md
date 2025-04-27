@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Tell us about a bug to make Hedy better!
+about: Tell us about a bug to make Jamjoum better!
 title: "🪲"
 labels: 'bug'
 assignees: ''

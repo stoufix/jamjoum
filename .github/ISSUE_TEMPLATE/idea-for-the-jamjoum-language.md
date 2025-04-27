@@ -1,6 +1,6 @@
 ---
-name: Idea for the Hedy language
-about: Suggest an idea for the Hedy language
+name: Idea for the Jamjoum language
+about: Suggest an idea for the Jamjoum language
 title: "🖊️"
 labels: 'language'
 assignees: ''

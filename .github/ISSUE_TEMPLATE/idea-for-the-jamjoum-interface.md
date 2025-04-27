@@ -1,6 +1,6 @@
 ---
-name: Idea for the Hedy interface
-about: Suggest an idea for the Hedy interface
+name: Idea for the Jamjoum interface
+about: Suggest an idea for the Jamjoum interface
 title: "💻"
 labels: 'frontend'
 assignees: ''

@@ -4,9 +4,9 @@ name: Update Weblate
 
 on:
   workflow_dispatch: {}
-  schedule:
-    # 6 in the morning
-    - cron:  '0 6 * * *'
+  # schedule:
+  #   # 6 in the morning
+  #   - cron:  '0 6 * * *'
 
 jobs:
   update-weblate:
@@ -98,5 +98,3 @@ jobs:
         # https://github.com/WeblateOrg/weblate/issues/11368
         wlc reset &
         sleep 10
-
-

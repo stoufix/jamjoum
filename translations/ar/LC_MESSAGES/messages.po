@@ -808,7 +808,7 @@ msgid "gender"
 msgstr "الجنس"
 
 msgid "gender_invalid"
-msgstr "الرجاء تحديد جنس صالح واختيار (أنثى ، ذكر ، أخرى)."
+msgstr "الرجاء تحديد جنس صالح واختيار (أنثى ، ذكر)."
 
 msgid "general_settings"
 msgstr "اعدادات عامة"
@@ -823,7 +823,7 @@ msgstr ""
 
 #, fuzzy
 msgid "go_back"
-msgstr ""
+msgstr "الرجوع"
 
 msgid "go_back_to_main"
 msgstr "الرجوع الى الصفحة الرئيسية"

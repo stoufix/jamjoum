@@ -38,4 +38,5 @@ pyinstaller==6.11.1
 pylint==3.1.0
 commonmark==0.9.1
 colorama==0.4.6
+setuptools>=65.0.0
 check-jsonschema
